@@ -1,0 +1,1 @@
+document.getElementById('btnOthers') .addEventListener('click')
