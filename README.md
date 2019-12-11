@@ -218,6 +218,10 @@ Divide the tasks amongst group members and complete the work in branch. When com
 6. Create a rule for elements with class `.from-me` to overwrite styles given to `.message` to show it's from the logged in user
 7. Create a rule for elements with class `.from-them` to do the same, but show it's from the opposite user
 
+padding between
+margin top bottom
+display inline
+
 
 ### B. User card
 1. Quickly wireframe a list item for a single user, including any relevant information (even if you have to make it up, or the data may be inaccessible)
