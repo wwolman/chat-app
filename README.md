@@ -1,7 +1,5 @@
 # Chat Interface
 
-hello world!
-
 The starting steps for a simple interactive chat interface.
 
 ## Steps to complete the assignment
